@@ -1,0 +1,1384 @@
+{
+	"dish1": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Beet",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 20
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Rusk",
+					"productType": "Bread",
+					"calories": 30,
+					"weight": 25
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Oil",
+					"productType": "Oil",
+					"calories": 50,
+					"weight": 55
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 0,
+					"weight": 2
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 100,
+		"weight": 102,
+		"title": "Salad with beet and bread",
+		"dishType": 2,
+		"cookingSteps": "Sliced beet. Fried bread and divide into pieces. Put oil and salt to it."
+	}],
+
+	"dish2": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Beet",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 20
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Potato",
+					"productType": "Vegatable",
+					"calories": 30,
+					"weight": 25
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Oil",
+					"productType": "Oil",
+					"calories": 50,
+					"weight": 55
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 0,
+					"weight": 2
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Sauerkraut",
+					"productType": "Vegatable",
+					"calories": 50,
+					"weight": 55
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 150,
+		"weight": 157,
+		"title": "Salad with beet and potato",
+		"dishType": 2,
+		"cookingSteps": "Boil beet and potato. Clean potato and beet from skin, cut into slices and put into bowl. Add sauerkraut, salt and oil to it."
+	}],
+
+	"dish3": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Beet",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 20
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Potato",
+					"productType": "Vegatable",
+					"calories": 30,
+					"weight": 25
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Oil",
+					"productType": "Oil",
+					"calories": 50,
+					"weight": 55
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 0,
+					"weight": 5
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Meat",
+					"productType": "Meat",
+					"calories": 50,
+					"weight": 55
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 150,
+		"weight": 160,
+		"title": "Borsch",
+		"dishType": 1,
+		"cookingSteps": "Boil meat in the pot for 20 minutes. Take off the foam, cut potato and beet at pieces and put to the pot. Boil 20 minutes more, put salt and oil."
+	}],
+
+	"dish4": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Wheat flour",
+					"productType": "Flour",
+					"calories": 178,
+					"weight": 53
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Butter",
+					"productType": "Butter",
+					"calories": 128,
+					"weight": 17
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Cow's milk",
+					"productType": "Milk",
+					"calories": 494,
+					"weight": 950
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Nutmeg",
+					"productType": "Nuts",
+					"calories": 40,
+					"weight": 6
+				}
+			}
+		],
+
+		"cuisine": 8,
+		"calories": 840,
+		"weight": 1000,
+		"title": "Bechamel sauce",
+		"dishType": 7,
+		"cookingSteps": "Add flour to the pan, put on small fire. Fry mixing till light brown colour. Take pan off the fire, add butter and milk. Put pan back to the small fire. Fry mixing till thick state, add nutmeg (flour). Take pan from the fire. Keep mixing."
+	}],
+
+	"dish5": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Onion",
+					"productType": "Vegatable",
+					"calories": 200,
+					"weight": 1071
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 360,
+					"weight": 40
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Sugar",
+					"productType": "Spices",
+					"calories": 1592,
+					"weight": 400
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Citric acid",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 3
+				}
+			}
+		],
+
+		"cuisine": 8,
+		"calories": 2153,
+		"weight": 1000,
+		"title": "Onion sauce",
+		"dishType": 7,
+		"cookingSteps": "Slice onion to the small pieces. Put at the pan. Add oil and put on the light fire. Keep on fire miing the onion till light golden color. Add citric acid and sugar. Keep mixing for 5 minutes. Take off from fire."
+	}],
+
+	"dish6": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Hake",
+					"productType": "Fish",
+					"calories": 52,
+					"weight": 60
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Wheat flour",
+					"productType": "Flour",
+					"calories": 17,
+					"weight": 5
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 27,
+					"weight": 3
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Citric acid",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			}
+		],
+
+		"cuisine": 7,
+		"calories": 83,
+		"weight": 50,
+		"title": "Fried hake",
+		"dishType": 4,
+		"cookingSteps": "Mix in the bowl flour, oil and spices. Cut hake to the pieces. Put pan at the midle fire, with few drops of water. Heat pan till water wapour off and 30 seconds more. Put fish piecs into the bowl with mix and on the pan. Fry till change the color to the light brown."
+	}],
+
+	"dish7": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Chicken",
+					"productType": "Meat",
+					"calories": 72,
+					"weight": 65
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Paprika",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 27,
+					"weight": 3
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			}
+		],
+
+		"cuisine": 6,
+		"calories": 71,
+		"weight": 50,
+		"title": "Chicken with paprika",
+		"dishType": 4,
+		"cookingSteps": "Mix spices in the bowl. Put ckicken into the bowl and smear with spices. Put pan at the midle fire, with few drops of water. Heat pan till water wapour off and 30 seconds more. Put chicken at the pan, fry till cook, changing sides (swapping)."
+	}],
+
+	"dish8": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Rice",
+					"productType": "Cereals",
+					"calories": 280,
+					"weight": 80
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Potatoes",
+					"productType": "Vegetable",
+					"calories": 25,
+					"weight": 40
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Smashed tomatoes",
+					"productType": "Vegetable",
+					"calories": 30,
+					"weight": 6
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Onion",
+					"productType": "Vegetable",
+					"calories": 40,
+					"weight": 16
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 143,
+		"weight": 1000,
+		"title": "Soup with rice and tomatoes",
+		"dishType": 3,
+		"cookingSteps": "Clean potatoe from the skin, cut at the pieces and put into pot, add water and rice. Put pot at the ire. Cat onion to the small pieces and put to the pot. Add salt. Wait till water boil, and boil 20 minutes. Add smashed tomatoes. Boil 2 minutes more and take from the fire. Eat cool."
+	}],
+
+	"dish9": [{
+		"products": [{
+				"product1": {
+					"productTitle": "White cabbage",
+					"productType": "Vegetable",
+					"calories": 22,
+					"weight": 80
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Pumpkin",
+					"productType": "Vegetable",
+					"calories": 23,
+					"weight": 80
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Garlic",
+					"productType": "Vegetable",
+					"calories": 30,
+					"weight": 20
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Pearl Barely",
+					"productType": "Cereals",
+					"calories": 75,
+					"weight": 70
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 6,
+					"weight": 6
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 156,
+		"weight": 1000,
+		"title": "Soup with pumpkin",
+		"dishType": 3,
+		"cookingSteps": "Take off skin form pumpkin. Slice pumpkin and cabbage, put to the pot. Add water, sault. Put on fire. Boi 20 miuntes. At the same time cut galic to the samll pieces. Add pearl barely and garlic to the pot. Boil 20 minutes more."
+	}],
+
+	"dish10": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Carrot",
+					"productType": "Vegetable",
+					"calories": 280,
+					"weight": 730
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Cheese Russian",
+					"productType": "Cheese",
+					"calories": 400,
+					"weight": 120
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Sour cream",
+					"productType": "Milk products",
+					"calories": 200,
+					"weight": 120
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 225,
+					"weight": 25
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 1
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 906,
+		"weight": 1000,
+		"title": "Salad with carrot and cheese",
+		"dishType": 2,
+		"cookingSteps": "Slice carrot and cheese. Put tot the bowl. Add oil and sour cream, add salt. Mix."
+	}],
+
+	"dish11": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Beet",
+					"productType": "Vegetable",
+					"calories": 160,
+					"weight": 400
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Fermented cabbage",
+					"productType": "Vegetable",
+					"calories": 60,
+					"weight": 300
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Apples",
+					"productType": "Fruits",
+					"calories": 115,
+					"weight": 250
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 500,
+					"weight": 50
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 5,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 840,
+		"weight": 1000,
+		"title": "Salad with apples and fermented cabbage",
+		"dishType": 2,
+		"cookingSteps": "Cut beet and apples in to the pieces, put to the bolw, mix. Add cabbage, oil and salt. Mix again."
+	}],
+
+	"dish12": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Green salad",
+					"productType": "Vegetable",
+					"calories": 36,
+					"weight": 300
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Cucumbers",
+					"productType": "Vegetable",
+					"calories": 45,
+					"weight": 360
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Tomatoes",
+					"productType": "Vegetable",
+					"calories": 60,
+					"weight": 300
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 500,
+					"weight": 50
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 5,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 646,
+		"weight": 1000,
+		"title": "Green salad",
+		"dishType": 2,
+		"cookingSteps": "Cut cucumbers and tomatoes, put to the bowl. Tear salad leafs, add to the bowl. Add oil and salt. Mix."
+	}],
+
+	"dish13": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Potato",
+					"productType": "Vegetable",
+					"calories": 520,
+					"weight": 800
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Pickles",
+					"productType": "Vegetable",
+					"calories": 22,
+					"weight": 200
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Forced garlic",
+					"productType": "Vegetable",
+					"calories": 5,
+					"weight": 3
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 500,
+					"weight": 50
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 5,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 1052,
+		"weight": 1000,
+		"title": "Potato salad",
+		"dishType": 2,
+		"cookingSteps": "Boil potato, for 25 mintes. Put in the cold water. Cool down 15 minutes. Free potato from the skin and cut to the pieces. Put to the bowl. Cut pickles and garlic to the bowl. Add oil and salt. Mix."
+	}],
+
+	"dish14": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Pasta togliatelle",
+					"productType": "Pasta",
+					"calories": 900,
+					"weight": 400
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sour cream",
+					"productType": "Milk products",
+					"calories": 340,
+					"weight": 300
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Butter",
+					"productType": "Milk products",
+					"calories": 300,
+					"weight": 40
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Pepper",
+					"productType": "Spices",
+					"calories": 2,
+					"weight": 2
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 2,
+					"weight": 2
+				}
+			}
+		],
+
+		"cuisine": 7,
+		"calories": 1544,
+		"weight": 500,
+		"title": "Pasta with sour cream",
+		"dishType": 4,
+		"cookingSteps": "Cut pepper to the small pieces, put tot the pan at light fire. Fry 5 minutes, add sour cream and half of salt. Fry 10 minutes mixing. Take from the fire. Boil water. Add another half of salt. Put pasta and boil for 8 minutes. Take from the fire and drain the water. Put pasta to the plate, add butter. Add pepper with cream from the pane."
+	}],
+
+	"dish15": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Warm milk",
+					"productType": "Milk products",
+					"calories": 52,
+					"weight": 100
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sugar powder",
+					"productType": "Sugar",
+					"calories": 374,
+					"weight": 100
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Butter",
+					"productType": "Milk products",
+					"calories": 150,
+					"weight": 15
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Honey",
+					"productType": "Sugar",
+					"calories": 65,
+					"weight": 20
+				}
+			}
+		],
+
+		"cuisine": 1,
+		"calories": 641,
+		"weight": 200,
+		"title": "Homemade toffees",
+		"dishType": 6,
+		"cookingSteps": "Add milk, powder and butter in to the pot. Boil for 5 minutes constantly mixing. Take from the fire and cool down for 5 minutes. Add honey and mix for 5 minutes more. Split at the molds. Cool down for the 1 hour (or more)."
+	}],
+
+	"dish16": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Brown bread",
+					"productType": "Bread",
+					"calories": 800,
+					"weight": 500
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Water",
+					"productType": "Water",
+					"calories": 10,
+					"weight": 3000
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Dry yeast",
+					"productType": "Yeast",
+					"calories": 12,
+					"weight": 15
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sugar",
+					"productType": "Sugar",
+					"calories": 498,
+					"weight": 125
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 1320,
+		"weight": 2500,
+		"title": "Bread kvass",
+		"dishType": 8,
+		"cookingSteps": "Cut bread to the small pieces. Half of bread put to the pan and fry 10 minutes at the light fire. Take off from the fire. Mix with another half of bread. Put to the pan, add water, sugar and yeast. Put to the dark cool place to the one day. Filter liquid and put to the battle. Keep in cold place not more than 5 days."
+	}],
+
+	"dish17": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Strong coffee",
+					"productType": "Coffee",
+					"calories": 6,
+					"weight": 300
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Ice",
+					"productType": "Water",
+					"calories": 0,
+					"weight": 20
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Milk",
+					"productType": "Milk",
+					"calories": 130,
+					"weight": 250
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sugar",
+					"productType": "Sugar",
+					"calories": 80,
+					"weight": 20
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Vanilla icecream",
+					"productType": "Sugar",
+					"calories": 600,
+					"weight": 250
+				}
+			}
+		],
+
+		"cuisine": 3,
+		"calories": 816,
+		"weight": 500,
+		"title": "Milk coffee coctail",
+		"dishType": 8,
+		"cookingSteps": "Cook coffe, cool it down. Add milk and sugar. Mix. Add ice and icecream."
+	}],
+
+	"dish18": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Chicken liver",
+					"productType": "Meat",
+					"calories": 600,
+					"weight": 700
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Onion",
+					"productType": "Vegetable",
+					"calories": 21,
+					"weight": 50
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Carrot",
+					"productType": "Vegetable",
+					"calories": 16,
+					"weight": 50
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 270,
+					"weight": 30
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Butter",
+					"productType": "Butter",
+					"calories": 300,
+					"weight": 40
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 40
+				}
+			}
+		],
+
+		"cuisine": 4,
+		"calories": 1200,
+		"weight": 600,
+		"title": "Liver paste",
+		"dishType": 1,
+		"cookingSteps": "Boil liver and carrot. Add sliced onion, oil, salt and butter. Grind."
+	}],
+
+	"dish19": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Tomatoe",
+					"productType": "Vegetable",
+					"calories": 400,
+					"weight": 2000
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sugar",
+					"productType": "Sugar",
+					"calories": 398,
+					"weight": 100
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Peper",
+					"productType": "Vegetable",
+					"calories": 650,
+					"weight": 3000
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 270,
+					"weight": 30
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Vinegar9%",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 40
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 20
+				}
+			},
+
+			{
+				"product7": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 10,
+		"calories": 1745,
+		"weight": 2000,
+		"title": "Classic lecho",
+		"dishType": 5,
+		"cookingSteps": "Slice pepper and tomato. Put into the pan. Add oil, salt and sugar. Fry 10 minutes. Add black pepper and vinegar. Fry 10 minutes more."
+	}],
+
+	"dish20": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Wild mushrooms",
+					"productType": "Vegetable",
+					"calories": 175,
+					"weight": 500
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sour cream",
+					"productType": "Milk product",
+					"calories": 333,
+					"weight": 250
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Butter",
+					"productType": "Butter",
+					"calories": 524,
+					"weight": 70
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 270,
+					"weight": 30
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Wheat flour",
+					"productType": "Flour",
+					"calories": 13,
+					"weight": 40
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 20
+				}
+			},
+
+			{
+				"product7": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 8,
+		"calories": 1329,
+		"weight": 500,
+		"title": "Wild mushrooms in sour cream sauce",
+		"dishType": 4,
+		"cookingSteps": "Cut mushrooms on pan and fry with sunflower oil, pepper and salt. At the end put sour cream, wheat flour and fry for 20 minutes more."
+	}],
+
+	"dish21": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Pita",
+					"productType": "Bread",
+					"calories": 400,
+					"weight": 500
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Chicken",
+					"productType": "Meat",
+					"calories": 340,
+					"weight": 250
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Tomatoes",
+					"productType": "Vegetable",
+					"calories": 14,
+					"weight": 70
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Salad",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 100
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Cucumber",
+					"productType": "Vegetable",
+					"calories": 10,
+					"weight": 60
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 20
+				}
+			},
+
+			{
+				"product7": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 3,
+		"calories": 792,
+		"weight": 500,
+		"title": "Homemade shawarmma",
+		"dishType": 5,
+		"cookingSteps": "Put sliced chiken, cucumber, salad and tomatoes on pita. Sprinkle pita with salt and papper."
+	}],
+
+	"dish22": [{
+		"products": [{
+				"product1": {
+					"productTitle": "Crackers",
+					"productType": "Bread",
+					"calories": 400,
+					"weight": 300
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Chicken",
+					"productType": "Meat",
+					"calories": 600,
+					"weight": 700
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Chicken eggs",
+					"productType": "Eggs",
+					"calories": 140,
+					"weight": 70
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 200,
+					"weight": 100
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Paprika",
+					"productType": "Spices",
+					"calories": 10,
+					"weight": 60
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 20
+				}
+			},
+
+			{
+				"product7": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 3,
+		"calories": 1624,
+		"weight": 500,
+		"title": "Nuggets",
+		"dishType": 1,
+		"cookingSteps": "Put crackers, sult, pepper, paprika, eggs in a bowl and mix. Cut meat in small parts. Heat meat in a pan with sunflower oil."
+	}],
+
+	"dish23": [{
+		"products": [{
+				"product1": {
+					"productTitle": "White bread",
+					"productType": "Bread",
+					"calories": 590,
+					"weight": 300
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Mozzarella",
+					"productType": "Cheese",
+					"calories": 240,
+					"weight": 100
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Garlic",
+					"productType": "Vegetable",
+					"calories": 2,
+					"weight": 10
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Tomatoe",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 100
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Sunflower oil",
+					"productType": "Oil",
+					"calories": 270,
+					"weight": 30
+				}
+			},
+
+			{
+				"product6": {
+					"productTitle": "Salt",
+					"productType": "Spices",
+					"calories": 1,
+					"weight": 20
+				}
+			},
+
+			{
+				"product7": {
+					"productTitle": "Black pepper",
+					"productType": "Spices",
+					"calories": 13,
+					"weight": 5
+				}
+			}
+		],
+
+		"cuisine": 8,
+		"calories": 1100,
+		"weight": 350,
+		"title": "Bruschetta with tomatoes",
+		"dishType": 0,
+		"cookingSteps": "Cut the bread into slices. Put sunflower oil, salt and pepper on bread. Cut mozzarella, tomatoe in slices on bread. Last step put garlic on bread."
+	}],
+
+	"dish24": [{
+		"products": [{
+				"product1": {
+					"productTitle": "White bread",
+					"productType": "Bread",
+					"calories": 200,
+					"weight": 150
+				}
+			},
+
+			{
+				"product2": {
+					"productTitle": "Sausage",
+					"productType": "Meat",
+					"calories": 270,
+					"weight": 80
+				}
+			},
+
+			{
+				"product3": {
+					"productTitle": "Cucumber",
+					"productType": "Vegetable",
+					"calories": 20,
+					"weight": 50
+				}
+			},
+
+			{
+				"product4": {
+					"productTitle": "Tomatoe",
+					"productType": "Vegetable",
+					"calories": 10,
+					"weight": 50
+				}
+			},
+
+			{
+				"product5": {
+					"productTitle": "Olives",
+					"productType": "Vegetable",
+					"calories": 46,
+					"weight": 40
+				}
+			}
+		],
+
+		"cuisine": 8,
+		"calories": 540,
+		"weight": 100,
+		"title": "Sandwich",
+		"dishType": 0,
+		"cookingSteps": "Cut the bread into slices. Put sausage, cucumber, tomato and olives on the bread. Heat in a pan for 10 minutes."
+	}]
+}
